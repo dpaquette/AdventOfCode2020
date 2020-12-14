@@ -1,4 +1,4 @@
-# AdventOfCode2020
+# Advent of Code 2020
 Attempting as many AoC questions as I can, using my old Tandy 1000 SL/2 and QBasic. This thing has an 8086 processor and 640K of RAM so I'm not sure how far I will get.
 
 
